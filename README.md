@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi Erikalen there .
+-I'm a student of gdut.
 <!--
 **Erikalen/Erikalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
